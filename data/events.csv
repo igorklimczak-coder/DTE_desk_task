@@ -1,0 +1,14 @@
+event_date,event,timing,source
+2025-08-07,DTE Q2 2025 results,before Xetra open,Nordnet corporate-actions calendar
+2025-10-23,T-Mobile US Q3 2025 results,US hours (DTE may react same or next day),Benzinga earnings history
+2025-11-13,DTE Q3 2025 results,before Xetra open,Nordnet corporate-actions calendar
+2026-02-11,T-Mobile US Q4 2025 results,US hours (DTE may react same or next day),Benzinga earnings history
+2026-02-26,DTE Q4 2025 results,before Xetra open,Nordnet corporate-actions calendar
+2026-04-28,T-Mobile US Q1 2026 results,US hours (DTE may react same or next day),Benzinga earnings history
+2026-05-13,DTE Q1 2026 results,before Xetra open,Nordnet corporate-actions calendar
+2026-07-23,T-Mobile US Q2 2026 results,US pre-market (during Xetra session),Earnings Whispers
+2026-08-06,DTE Q2 2026 results,before Xetra open,Nordnet calendar; DT ad-hoc release 6 Aug 06:26 CET
+2026-10-29,T-Mobile US Q3 2026 results,released 28 Oct 16:05 ET after US close; DTE reacts at the 29 Oct Xetra open,T-Mobile press release (BusinessWire 17 Sep 2026)
+2026-11-05,DTE Q3 2026 results,before Xetra open,Deutsche Telekom IR financial calendar (telekom.com); Bloomberg via single_stocks.bbg_earnings_expected
+2027-02-25,DTE Q4 / FY 2026 results,before Xetra open (expected),Deutsche Telekom media calendar (telekom.com)
+2027-05-12,DTE Q1 2027 results,before Xetra open (expected),Deutsche Telekom media calendar (telekom.com)
